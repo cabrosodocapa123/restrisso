@@ -40,14 +40,6 @@ nav {
   color: var(--cor3);
 }
 
-.titulo {
-  margin: 0;
-  text-align: center;
-  position: relative;
-  top: 40px;
-  color: var(--cor3);
-}
-
 .principal {
   min-height: 100vh;
   /* margin: 20px; */
@@ -92,7 +84,7 @@ footer {
   color: var(--cor6);
 }
 
-.imgtitulo {
+.imglogo {
   position: absolute;
   top: 15px;
   left: 35%;
